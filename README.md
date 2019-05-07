@@ -1,1 +1,8 @@
-stereo_matching
+```
+mkdir build
+cd build
+cmake ..
+make
+./stereopsis
+```
+
